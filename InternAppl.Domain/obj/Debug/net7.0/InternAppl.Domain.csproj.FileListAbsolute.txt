@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\InternApplProgram\InternAppl.Domain\bin\Debug\net7.0\InternAppl.Domain.deps.json
+C:\Users\HP\source\repos\InternApplProgram\InternAppl.Domain\bin\Debug\net7.0\InternAppl.Domain.dll
+C:\Users\HP\source\repos\InternApplProgram\InternAppl.Domain\bin\Debug\net7.0\InternAppl.Domain.pdb
+C:\Users\HP\source\repos\InternApplProgram\InternAppl.Domain\obj\Debug\net7.0\InternAppl.Domain.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\InternApplProgram\InternAppl.Domain\obj\Debug\net7.0\InternAppl.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\InternApplProgram\InternAppl.Domain\obj\Debug\net7.0\InternAppl.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\InternApplProgram\InternAppl.Domain\obj\Debug\net7.0\InternAppl.Domain.AssemblyInfo.cs
+C:\Users\HP\source\repos\InternApplProgram\InternAppl.Domain\obj\Debug\net7.0\InternAppl.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\InternApplProgram\InternAppl.Domain\obj\Debug\net7.0\InternAppl.Domain.dll
+C:\Users\HP\source\repos\InternApplProgram\InternAppl.Domain\obj\Debug\net7.0\refint\InternAppl.Domain.dll
+C:\Users\HP\source\repos\InternApplProgram\InternAppl.Domain\obj\Debug\net7.0\InternAppl.Domain.pdb
+C:\Users\HP\source\repos\InternApplProgram\InternAppl.Domain\obj\Debug\net7.0\ref\InternAppl.Domain.dll

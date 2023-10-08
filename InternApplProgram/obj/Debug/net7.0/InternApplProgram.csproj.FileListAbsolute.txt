@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\InternApplProgram\InternApplProgram\bin\Debug\net7.0\InternApplProgram.exe
+C:\Users\HP\source\repos\InternApplProgram\InternApplProgram\bin\Debug\net7.0\InternApplProgram.deps.json
+C:\Users\HP\source\repos\InternApplProgram\InternApplProgram\bin\Debug\net7.0\InternApplProgram.runtimeconfig.json
+C:\Users\HP\source\repos\InternApplProgram\InternApplProgram\bin\Debug\net7.0\InternApplProgram.dll
+C:\Users\HP\source\repos\InternApplProgram\InternApplProgram\bin\Debug\net7.0\InternApplProgram.pdb
+C:\Users\HP\source\repos\InternApplProgram\InternApplProgram\obj\Debug\net7.0\InternApplProgram.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\InternApplProgram\InternApplProgram\obj\Debug\net7.0\InternApplProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\InternApplProgram\InternApplProgram\obj\Debug\net7.0\InternApplProgram.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\InternApplProgram\InternApplProgram\obj\Debug\net7.0\InternApplProgram.AssemblyInfo.cs
+C:\Users\HP\source\repos\InternApplProgram\InternApplProgram\obj\Debug\net7.0\InternApplProgram.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\InternApplProgram\InternApplProgram\obj\Debug\net7.0\InternApplProgram.dll
+C:\Users\HP\source\repos\InternApplProgram\InternApplProgram\obj\Debug\net7.0\refint\InternApplProgram.dll
+C:\Users\HP\source\repos\InternApplProgram\InternApplProgram\obj\Debug\net7.0\InternApplProgram.pdb
+C:\Users\HP\source\repos\InternApplProgram\InternApplProgram\obj\Debug\net7.0\InternApplProgram.genruntimeconfig.cache
+C:\Users\HP\source\repos\InternApplProgram\InternApplProgram\obj\Debug\net7.0\ref\InternApplProgram.dll
